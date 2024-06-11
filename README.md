@@ -3,17 +3,19 @@
 [![Personal Portfolio](https://img.shields.io/badge/Personal_Portfolio-purple)](https://personal-portfolio-bay-psi.vercel.app/)
 ![Project Type](https://img.shields.io/badge/Project_Type:-Portfolio-orange)
 ![HTML&CSS](https://img.shields.io/badge/HTML-CSS-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-orange)
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Responsive_Web_Design_Course-red)](https://freecodecamp.com/learn)
 
 ![image](./assets/readme_pics/personal_portfolio_2.png)
 
-![personal-portfolio](./assets/readme_pics/personal_portfolio.png)
+![personal-portfolio](https://github.com/WilliamFernsCodes/personal_portfolio/assets/172117888/c71a50fd-a174-413f-849b-76ca8dc44e04)
 
-A simple personal portfolio, made with HTML and CSS, showcasing my recent projects and skills. Feel free to check <a href="https://williamferns.org" target="_blank">my portfolio</a> out, and give feedback on what I can improve if you like. If you want to see a quick showcase video of the portfolio, <a href="https://www.youtube.com/watch?v=DE21IevfJ7A" target="_blank">click here</a>. 
+A simple personal portfolio, made with HTML, CSS, and JavaScript, showcasing my recent projects and skills. Feel free to check <a href="https://williamferns.org" target="_blank">my portfolio</a> out, and give feedback on what I can improve if you like. If you want to see a quick showcase video of the portfolio, <a href="https://www.youtube.com/watch?v=DE21IevfJ7A" target="_blank">click here</a>. 
 
 ## Technologies:
 1. HTML
 2. CSS
+3. JavaScript
 
 ## Project Motive:
 Having an optimized Github profile is great, but having a personal portfolio website to showcase your skills and work experience is even better. As a developer, it is a must to have a personal portfolio.
@@ -24,9 +26,8 @@ If you really like the portfolio, and you see something you can improve, feel fr
 ## What I learnt from making this project:
 1. HTML
 2. CSS
-3. Mobile Responsiveness
-
-Once I learn Javascript from freeCodeCamp's Curriculum, I will update this project, to have a burger icon on the header for mobile, to show the nav items. Feel free to make a pull request if you are up for the challenge.
+3. JavaScript
+4. Mobile Responsiveness
 
 ## License:
 This project is under the MIT license. Feel free to do whatever you wnat with it, I really don't care.
