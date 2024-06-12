@@ -202,7 +202,7 @@ const projectsData = [
       {
         name: "github",
 
-        link: "https://github.com/WilliamFernsCodes/telephone-number-validator",
+        link: "https://github.com/WilliamFernsCodes/telephone_number_validator",
       },
       {
         name: "website",
@@ -278,7 +278,7 @@ const projectsData = [
     links: [
       {
         name: "github",
-        link: "https://github.com/WilliamFernsCodes/survey-form",
+        link: "https://github.com/WilliamFernsCodes/survey_form",
       },
       {
         name: "website",
