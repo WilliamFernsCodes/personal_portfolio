@@ -180,7 +180,7 @@ const projectsData = [
     ],
   },
   {
-    name: "2D Platformer Game",
+    name: "2D Platformer Game (Course Project - Own Touch)",
     image: "./assets/project-images/platformer-game.png",
     tags: ["HTML", "CSS", "JS"],
     links: [
@@ -228,7 +228,7 @@ const projectsData = [
   {
     name: "Roman Numeral Convertor",
     image: "./assets/project-images/roman-numeral-convertor.png",
-    tags: ["HTML", "CSS"],
+    tags: ["HTML", "CSS", "JS"],
     links: [
       {
         name: "github",
@@ -244,7 +244,7 @@ const projectsData = [
   {
     name: "Palindrome Checker",
     image: "./assets/project-images/palindrome-checker.png",
-    tags: ["HTML", "CSS"],
+    tags: ["HTML", "CSS", "JS"],
     links: [
       {
         name: "github",
@@ -253,6 +253,21 @@ const projectsData = [
       {
         name: "website",
         link: "https://palindrome-checker-seven.vercel.app/",
+      },
+    ],
+  },
+  {
+    name: "Advance Dice Game (Course Project - Own Touch)",
+    image: "./assets/project-images/advanced-dice-game.png",
+    tags: ["HTML", "CSS", "JS"],
+    links: [
+      {
+        name: "github",
+        link: "https://github.com/WilliamFernsCodes/advance-dice-game-js",
+      },
+      {
+        name: "website",
+        link: "https://advance-dice-game-js.vercel.app/",
       },
     ],
   },
