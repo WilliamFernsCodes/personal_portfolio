@@ -272,6 +272,21 @@ const projectsData = [
     ],
   },
   {
+    name: "Cash Register Project",
+    image: "./assets/project-images/cash-register-project.png",
+    tags: ["HTML", "CSS", "JS"],
+    links: [
+      {
+        name: "github",
+        link: "https://github.com/WilliamFernsCodes/cash-register-project",
+      },
+      {
+        name: "website",
+        link: "https://cash-register-project.vercel.app/",
+      },
+    ],
+  },
+  {
     name: "Replit Bounty Hunter Bootcamp | Starter Guide",
     image: "./assets/project-images/replit-bounty-hunter-bootcamp.png",
     tags: ["HTML", "CSS"],
