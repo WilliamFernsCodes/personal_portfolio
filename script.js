@@ -87,7 +87,7 @@ const navbar = (navbarSelector) => {
       <a class="nav-link" href="#work-experience">Work experience</a>
       <a class="nav-link" href="#projects">Projects</a>
       <a class="nav-link" href="#hire-me">Hire me</a>
-      <a class="nav-link" href="https://github.com/WilliamFernsCodes" target="_blank">Github</a>
+      <a class="nav-link" href="https://github.com/WilliamFernsCodes/" target="_blank">Github</a>
     </div>
   `;
   navbarElement.innerHTML = navbarInnerHTML;
