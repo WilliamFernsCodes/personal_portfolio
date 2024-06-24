@@ -272,6 +272,21 @@ const projectsData = [
     ],
   },
   {
+    name: "freeCodeCamp Authors Page (Course Project - Own Touch)",
+    image: "./assets/project-images/fcc_authors_page_edited.png",
+    tags: ["HTML", "CSS", "JS"],
+    links: [
+      {
+        name: "github",
+        link: "https://github.com/WilliamFernsCodes/fcc_authors_page",
+      },
+      {
+        name: "website",
+        link: "https://fcc-authors-page.vercel.app/",
+      },
+    ],
+  },
+  {
     name: "Cash Register Project",
     image: "./assets/project-images/cash-register-project.png",
     tags: ["HTML", "CSS", "JS"],
