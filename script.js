@@ -272,6 +272,21 @@ const projectsData = [
     ],
   },
   {
+    name: "freeCodeCamp Forum Leaderboard (Coure Project - Own Touch)",
+    image: "./assets/project-images/fcc_forum_leaderboard_edited.png",
+    tags: ["HTML", "CSS", "JS"],
+    links: [
+      {
+        name: "github",
+        link: "https://github.com/WilliamFernsCodes/fcc_forum_leaderboard",
+      },
+      {
+        name: "website",
+        link: "https://fcc-forum-leadearboard.vercel.app/",
+      },
+    ],
+  },
+  {
     name: "freeCodeCamp Authors Page (Course Project - Own Touch)",
     image: "./assets/project-images/fcc_authors_page_edited.png",
     tags: ["HTML", "CSS", "JS"],
